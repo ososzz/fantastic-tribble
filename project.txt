@@ -1,2 +1,6 @@
 GitHub Pull Request Demo
 Version 1.0
+This repository was made for educational purposes only. The main goal is how to learn the pull request workflow.
+Start of project
+Version 1.1
+Adding more features to this text file.
